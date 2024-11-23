@@ -1,3 +1,4 @@
+#__pycache__裡的也會做排除
 test3.py
 #加過就不行排除了
 test2.py
